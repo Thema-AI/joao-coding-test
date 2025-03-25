@@ -6,7 +6,7 @@ This repo contains a web application that displays a list of products.
 
 You'll find a next.js application that uses shadcn/ui for displaying the list.
 
-We've used well known tooling to help you navigate the task and you'll find instructions on how to run the api and the web application on the readme's inside each app.
+We've used well known tooling to help you navigate the task and you'll find instructions on how to run the web application further down.
 
 ## Task
 
